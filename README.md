@@ -1,4 +1,9 @@
 ## ¡Hola! 👋 ¡soy Emilia bienvenidos! 
+
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/Emilialehr/Emilialehr/blob/main/Mobo.png" width="800"/>
+</div>
+
 ### Mi experiencia me ha dotado de habilidades únicas, como la creatividad y el análisis crítico, que aplico con éxito en todos mis proyectos. Gracias a mi reciente formación en análisis de datos, ahora domino herramientas como Python, Pandas, Matplotlib, Plotly, SQL y Git, que me permiten analizar datos de manera más eficiente y tomar decisiones fundamentadas de manera ágil. Estoy emocionada por seguir explorando y creciendo en este apasionante campo.
 
 
