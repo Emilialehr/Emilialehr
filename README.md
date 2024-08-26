@@ -27,7 +27,7 @@
     <img decoding="async" src="https://img.shields.io/badge/Odoo-7146C6?style=for-the-badge&logo=odoo&logoColor=white" alt="odoo erp"/>
 <div id="header" align="left">
     <!-- Herramientas de gestión de proyectos y análisis de negocio -->
-    <img decoding="async" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel avanzado"/>
+    <img decoding="async" src="https://img.shields.io/badge/Excel Avanzado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel avanzado"/>
     <img decoding="async" src="https://img.shields.io/badge/KPI's-2F80ED?style=for-the-badge&logoColor=white" alt="kpi"/>
     <img decoding="async" src="https://img.shields.io/badge/Business_Intelligence-00A9E0?style=for-the-badge&logo=power-bi&logoColor=white" alt="business intelligence"/>
     <img decoding="async" src="https://img.shields.io/badge/Kommo_CRM-FF6F61?style=for-the-badge&logo=kommo&logoColor=white" alt="kommo crm"/>
