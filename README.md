@@ -25,14 +25,14 @@
     <img decoding="async" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="json"/>
     <img decoding="async" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=python&logoColor=white" alt="machine learning"/>
     <img decoding="async" src="https://img.shields.io/badge/Odoo-7146C6?style=for-the-badge&logo=odoo&logoColor=white" alt="odoo erp"/>
-
+<div id="header" align="left">
     <!-- Herramientas de gestión de proyectos y análisis de negocio -->
     <img decoding="async" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel avanzado"/>
     <img decoding="async" src="https://img.shields.io/badge/KPI's-2F80ED?style=for-the-badge&logoColor=white" alt="kpi"/>
     <img decoding="async" src="https://img.shields.io/badge/Business_Intelligence-00A9E0?style=for-the-badge&logo=power-bi&logoColor=white" alt="business intelligence"/>
     <img decoding="async" src="https://img.shields.io/badge/Kommo_CRM-FF6F61?style=for-the-badge&logo=kommo&logoColor=white" alt="kommo crm"/>
     <img decoding="async" src="https://img.shields.io/badge/Bases_de_Datos-00618F?style=for-the-badge&logo=database&logoColor=white" alt="bases de datos"/>
-
+<div id="header" align="left">
     <!-- Herramientas de diseño y multimedia -->
     <img decoding="async" src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="illustrator"/>
     <img decoding="async" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="photoshop"/>
